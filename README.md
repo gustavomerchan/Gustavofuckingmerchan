@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gustavofuckingmerchan
 - 👀 I’m interested in lean how to code
-- 🌱 I’m currently learning python and git
+- 🌱 I’m currently learning python, git and github
 - 💞️ I’m looking to collaborate on something that help me learn more 
 - 📫 How to reach me ?
 
